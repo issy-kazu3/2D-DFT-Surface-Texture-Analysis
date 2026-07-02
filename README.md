@@ -3,9 +3,8 @@ Early research on surface texture characterization using 2D-DFT. Once presented 
 
 ## Documentation
 The full slide deck is available here:
-
-- English: [2D_DFT_English_Presentation.pdf](docs/2D_DFT_English_Presentation.pdf)
-- Japanese: [2D_DFT_Operation_Guide_JP.pptx](docs/2D_DFT_Operation_Guide_JP.pptx)
+- English: [2D_DFT.pdf](docs/2D_DFT.pdf)
+- Japanese: [2ddft_user_guideJP20180312.pdf](docs/2ddft_user_guideJP20180312.pdf)
 
 ## Overview
 This repository contains my early research (1998) on surface texture evaluation 
