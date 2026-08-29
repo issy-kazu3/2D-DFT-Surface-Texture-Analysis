@@ -22,7 +22,7 @@ The study includes:
 - [Cross-hatch analysis](ca://s?q=Cross_hatch_analysis)
 - [Shot condition vs dimple characteristics](ca://s?q=Shot_condition_dimple_characteristics)
 
-![shotpeening]https://github.com/issy-kazu3/2D-DFT-Surface-Texture-Analysis/raw/main/images/shotpeening.png
+![shotpeening](https://github.com/issy-kazu3/2D-DFT-Surface-Texture-Analysis/raw/main/images/shotpeening.png)
 
 ## Folder Structure
 - **docs/** — PDF documentation  
